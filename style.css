@@ -1,0 +1,90 @@
+/* div {
+    position: absolute;
+    left: 5%;
+  } */
+  body {
+      background-color: #ffffea;
+  }
+  .avatar{
+    width: 100px;
+    border-radius: 50%;
+  }
+  /* .container {
+    text-align: center; 
+     font-size: 2rem; 
+     font-weight: 300;
+  } */
+  .a .container {
+    /* text-align: center; */
+    background-color: #ffffc8;
+  }
+
+  .b .container {
+    background-color: #f0f0dd;
+  }
+
+  .a1 {
+    text-align: center;
+  }
+
+  .solve1 {
+      display: none;
+  }
+  .solve2 {
+    display: none;
+}
+/*  
+  .container {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 300;
+  }
+
+  .a .container {
+    background-color: #00b0f0;
+  }
+
+  .b .container {
+    background-color: #00b050;
+  }
+
+  .c .container {
+    background-color: #c00000;
+  }
+
+  .d .container {
+    background-color: #7030a0;
+  }
+
+  .a1 {
+    background-color: rgba(255, 255, 255, .5);
+  }
+
+  .c1 {
+    background-color: rgba(255, 255, 255, .66);
+  }
+
+  .c2 {
+    background-color: rgba(255, 255, 255, .33);
+  }
+
+  .d1 {
+    background-color: rgba(255, 255, 255, .75);
+  }
+
+  .d2 {
+    background-color: rgba(255, 255, 255, .5);
+  }
+
+  .d3 {
+    background-color: rgba(255, 255, 255, .25);
+  }
+
+  .a2,
+  .b,
+  .c2,
+  .c3,
+  .d3,
+  .d4 {
+    color: #fff;
+  } */
