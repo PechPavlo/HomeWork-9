@@ -36,7 +36,9 @@
     height: 400px;
 }
 .solve1-body {
-  height: 74%;
+  height: 78%;
+  padding-bottom: 8px;
+  padding-top: 5px;
   overflow-y: scroll;
 }
 .solve1-body {
